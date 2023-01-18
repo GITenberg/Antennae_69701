@@ -1,0 +1,30 @@
+_repo: Antennae_69701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Footner, Hulbert
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '6601'
+    url: http://www.gutenberg.org/2009/agents/6601
+    wikipedia:
+    - http://www.xs4all.nl/~embden11/Engels5/footner.htm
+    - https://en.wikipedia.org/wiki/Hulbert_Footner
+description: ''
+gutenberg_issued: '2023-01-03'
+identifiers:
+  gutenberg: '69701'
+language: en
+pgterms:marc905: 20230102150814footner
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United States: George H. Doran Company,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Antennae
+url: http://www.gutenberg.org/ebooks/69701
