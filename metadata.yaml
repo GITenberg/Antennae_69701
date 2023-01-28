@@ -1,5 +1,8 @@
 _repo: Antennae_69701
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69701-h/images/cover.jpg
 creator:
   author:
     agent_name: Footner, Hulbert
@@ -11,6 +14,8 @@ creator:
     - http://www.xs4all.nl/~embden11/Engels5/footner.htm
     - https://en.wikipedia.org/wiki/Hulbert_Footner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69701#Antennae
 gutenberg_issued: '2023-01-03'
 identifiers:
   gutenberg: '69701'
